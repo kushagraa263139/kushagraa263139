@@ -56,23 +56,6 @@ CS undergrad @ UPES Dehradun · AI/ML major · Ex-Intern @ Dell Technologies
 | 🤖 **[JARVIS RAG — Document Q&A Assistant](https://github.com/kushagraa263139)** | RAG pipeline that answers questions from uploaded PDFs using FAISS retrieval + LangChain orchestration over Gemini/Groq | `LangChain` `RAG` `FAISS` `Gemini API` |
 | 🛍️ **[Mall Customer Segmentation](https://github.com/kushagraa263139)** | K-Means clustering to segment customers by purchasing behavior, with Elbow Method tuning and Matplotlib visualizations | `Scikit-learn` `Pandas` `NumPy` |
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushagraa263139&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushagraa263139&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagraa263139&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-<p align="center"><i>Always down to talk AI, algorithms, or the next hackathon idea ✨</i></p>
-
 
 <!--
 **kushagraa263139/kushagraa263139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
