@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kushagra 👋</h1>
-<h3 align="center">Building things, breaking things, learning in between.</h3>
+<h3 align="center">I like solving problems.</h3>
 
 <p align="center">
 CS undergrad @ UPES Dehradun · AI/ML major · Ex-Intern @ Dell Technologies
